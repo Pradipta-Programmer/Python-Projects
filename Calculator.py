@@ -40,3 +40,5 @@ while(True):
             break
         case _:
             print("Invalid input", "\n", "Try Again")
+
+print("Thank you for using my Simple Calculator")
