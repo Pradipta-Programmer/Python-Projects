@@ -1,9 +1,9 @@
 print("Welcome to my Simple Calculator")
 while(True):
-    print("Enter: ", "\n", "1 for Addition", "\n", "2 for Subtraction",
+    print("\n", "Enter: ", "\n", "1 for Addition", "\n", "2 for Subtraction",
           "\n", "3 for Multiplication", "\n", "4 for Division", "\n", 
-          "5 if you are done")
-    a= int(input())
+          "5 if you are done","\n")
+    a= int(input(">>>  "))
     match a:
         case 1:
             b= int(input("How many numbers you want to input: "))
