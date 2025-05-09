@@ -22,4 +22,5 @@ Clone the repository or download individual `.py` files to run locally.
 
 ## 👨‍💻 Author
 Pradipta Singha
-CSE Student @ Heritage Institute of Technology, Kolkata
+CSE Student 
+@ Heritage Institute of Technology, Kolkata
