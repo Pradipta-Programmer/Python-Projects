@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Your Name
+# This code is licensed under the MIT License.
 print("Welcome to my Simple Calculator")
 while(True):
     print("\n", "Enter: ", "\n", "1 for Addition", "\n", "2 for Subtraction",
