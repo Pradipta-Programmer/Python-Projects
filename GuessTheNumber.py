@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Your Name
+# This code is licensed under the MIT License.
 print("Welcome to the Guess the Number Game!")
 while True:
     import random
