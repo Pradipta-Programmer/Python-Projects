@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Your Name
+# Copyright (c) 2025 Pradipta Singha
 # This code is licensed under the MIT License.
 print("Welcome to the Guess the Number Game!")
 while True:
