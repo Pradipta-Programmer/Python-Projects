@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Pradipta Singha
+# This code is licensed under the MIT License.
 print("Welcome to my Password Generator")
 import random
 import string
