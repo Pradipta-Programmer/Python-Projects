@@ -1,6 +1,7 @@
 # @@ -1,3 +1,5 @@
 # Copyright (c) 2025 Pradipta Singha
 # This code is licensed under the MIT License.
+
 import requests
 from datetime import datetime
 
